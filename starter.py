@@ -4,7 +4,7 @@ import struct
 
 # Initialize Pyfhel context
 HE = Pyfhel()
-HE.contextGen(scheme='bfv', n=2**14, t_bits=20)  # hello world options
+HE.contextGen(scheme='ckks', n=2**14, scale=2**30, qi_sizes=[60, 30, 30, 30, 60])
 
 def float_to_bytes(f):
     # Pack the float into a binary representation
@@ -23,20 +23,14 @@ df = pd.read_csv('data.csv')
 print("Original Dataset:")
 print(df)
 
-# Having a problem with this code block
-# if given int or float, wants bytes (TypeError)
-# if given bytes, not storeable (BufferError)
 '''
-# Create a copy of the 'Operating Gross Margin' column as bytes
-# Use float_to_bytes to convert each float to a bytes-like object
-bytes_column = [float_to_bytes(x) for x in df[' Operating Gross Margin']]
-
-# Encrypt the bytes column
-encrypted_column = [HE.encryptInt(int.from_bytes(x, 'big')) for x in bytes_column]
-
+Having a problem with this code block
+if given float, wants bytes (TypeError)
+if given bytes, not storeable (BufferError)
+'''
 # Encrypt a column from the dataset
-encrypted_column = [HE.encryptInt(float_to_bytes(x)) for x in df[' Operating Gross Margin']]
-'''
+#encrypted_column = [HE.encryptFrac(x) for x in df[' Operating Gross Margin']]
+encrypted_column = [HE.encryptFrac(float_to_bytes(x)) for x in df[' Operating Gross Margin']]
 
 # Perform homomorphic addition on the encrypted column
 homomorphic_sum = HE.addMany(encrypted_column)
