@@ -28,9 +28,11 @@ Having a problem with this code block
 if given float, wants bytes (TypeError)
 if given bytes, not storeable (BufferError)
 '''
+bytes_column = [float_to_bytes(x) for x in df[' Operating Gross Margin']]
 # Encrypt a column from the dataset
 #encrypted_column = [HE.encryptFrac(x) for x in df[' Operating Gross Margin']]
-encrypted_column = [HE.encryptFrac(float_to_bytes(x)) for x in df[' Operating Gross Margin']]
+#encrypted_column = [HE.encryptFrac(float_to_bytes(x)) for x in df[' Operating Gross Margin']]
+encrypted_column = [HE.encryptFrac(x) for x in bytes_column]
 
 # Perform homomorphic addition on the encrypted column
 homomorphic_sum = HE.addMany(encrypted_column)
