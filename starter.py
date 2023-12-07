@@ -35,7 +35,9 @@ print(csv_read)
 '''
 Results in buffer error.
 '''
-encrypted_column = [HE.encryptFrac(np.float64(x)) for x in csv_read[' Operating Gross Margin']]
+#encrypted_column = [HE.encryptFrac(np.float64(x)) for x in csv_read[' Operating Gross Margin']]
+float64_column = [np.float64(x) for x in csv_read[' Operating Gross Margin']]
+encrypted_column = [HE.encryptFrac(x) for x in csv_read[' Operating Gross Margin']]
 
 
 # Perform homomorphic addition on the encrypted column
