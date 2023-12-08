@@ -58,25 +58,6 @@ def cipher_average(ctxt: PyCtxt, size: int):
     return avg_cipher
 
 
-def cipher_inner_product(ctxt1: PyCtxt, ctxt2: PyCtxt, size: int):
-    ctxt_mul = ~(ctxt1 * ctxt2)
-    return cipher_sum(ctxt_mul, size)
-
-
-def cipher_covariance(ctxt1: PyCtxt, ctxt2: PyCtxt, size: int):
-    cmean1 = cipher_average(ctxt1, size)
-    cmean2 = cipher_average(ctxt2, size)
-
-    return cipher_inner_product(ctxt1 - cmean1, ctxt2 - cmean2, size) / size
-
-
-def cipher_std_dev(ctxt: PyCtxt, size: int):
-    cmean = cipher_average(ctxt, size)
-    dev = ~(ctxt - cmean)**2
-    std_dev = (cipher_sum(dev / (size - 1), size)) ** 0.5
-    return std_dev
-
-
 def cipher_corr(ctxt1: PyCtxt, ctxt2: PyCtxt):
     ctxt_mul = ctxt1 * ctxt2
     return cipher_sum(ctxt_mul)
@@ -87,13 +68,7 @@ def query(col_name: str, f: str | None = None):
     global enc_data
     hashed_col_name = sha256(col_name.encode()).hexdigest()
     ctxt, size = enc_data[hashed_col_name]
-    hashed_col_name2 = sha256(col_name.encode()).hexdigest()
-    ctxt2, size = enc_data[hashed_col_name2]
-    a = cipher_covariance(ctxt, ctxt2, size).decrypt()[0]
-    a = cipher_std_dev(ctxt, size).decrypt()[0]
-    '''
-    a = cipher_sum(ctxt, size).decrypt()[0]
-    '''
+    a = cipher_average(ctxt, size).decrypt()[0]
     return a
 
 
@@ -109,8 +84,7 @@ def main():
         data_ctxt = HE.encrypt(col_data)
         enc_data[hashed_col_name] = (data_ctxt, len(col_data))
 
-    #ogm_dec = query(" Operating Gross Margin")
-    ogm_dec = query(" Operating Gross Margin", " Operating Profit Rate")
+    ogm_dec = query(" Operating Gross Margin")
     print('decrypted', ogm_dec)
     data[" Operating Gross Margin"].mean()
 
