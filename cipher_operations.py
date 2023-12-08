@@ -65,6 +65,8 @@ def cipher_average(ctxt: PyCtxt, size: int):
 
 
 def cipher_inner_product(ctxt1: PyCtxt, ctxt2: PyCtxt, size: int):
+    if ctxt1 is ctxt2:
+        ctxt2 = ctxt1.copy()
     ctxt_mul = ~(ctxt1 * ctxt2)  # relinearization to reduce size
     return cipher_sum(ctxt_mul, size)
 
