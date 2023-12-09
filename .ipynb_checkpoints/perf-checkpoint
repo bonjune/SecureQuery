@@ -1,0 +1,1731 @@
+ip performance
+Bankrupt
+size: 6819
+unencrypted operation: 0.00016175700875464827
+encrypted operation: 0.6552514729992254
+operation result difference: -4.8182916145833585e-08
+
+ ROA(C) before interest and depreciation before interest
+size: 6819
+unencrypted operation: 0.0001318400027230382
+encrypted operation: 0.5061448710039258
+operation result difference: 1.0399675305261117e-07
+
+ ROA(A) before interest and % after tax
+size: 6819
+unencrypted operation: 0.00010525999823585153
+encrypted operation: 0.49808278800628614
+operation result difference: -7.780555526240045e-08
+
+ ROA(B) before interest and depreciation after tax
+size: 6819
+unencrypted operation: 0.00010811499669216573
+encrypted operation: 0.47800605300290044
+operation result difference: -3.108512028804913e-08
+
+ Operating Gross Margin
+size: 6819
+unencrypted operation: 6.933099939487875e-05
+encrypted operation: 0.48777586899814196
+operation result difference: -1.8742367747625014e-07
+
+ Realized Sales Gross Margin
+size: 6819
+unencrypted operation: 7.175600330810994e-05
+encrypted operation: 0.476802871999098
+operation result difference: 3.857283022384288e-09
+
+ Operating Profit Rate
+size: 6819
+unencrypted operation: 9.658400085754693e-05
+encrypted operation: 0.5034965689992532
+operation result difference: -3.4761188576753955e-09
+
+ Pre-tax net Interest Rate
+size: 6819
+unencrypted operation: 9.25759959500283e-05
+encrypted operation: 0.4873550670017721
+operation result difference: -1.0132836185529026e-08
+
+ After-tax net Interest Rate
+size: 6819
+unencrypted operation: 9.525098721496761e-05
+encrypted operation: 0.4981474999949569
+operation result difference: 9.471946987581241e-09
+
+ Non-industry income and expenditure/revenue
+size: 6819
+unencrypted operation: 9.86680097412318e-05
+encrypted operation: 0.4941756850021193
+operation result difference: 3.7206265328470295e-08
+
+ Continuous interest rate (after tax)
+size: 6819
+unencrypted operation: 7.02339893905446e-05
+encrypted operation: 0.4969812329945853
+operation result difference: -7.714553019884007e-08
+
+ Operating Expense Rate
+size: 6819
+unencrypted operation: 6.905099144205451e-05
+encrypted operation: 0.4857465590030188
+operation result difference: -1.701205256932791e-16
+
+ Research and development expense rate
+size: 6819
+unencrypted operation: 0.00010485899110790342
+encrypted operation: 0.4907845499983523
+operation result difference: -1.1655742785855573e-16
+
+ Cash flow rate
+size: 6819
+unencrypted operation: 7.138600631151348e-05
+encrypted operation: 0.47888716000306886
+operation result difference: 1.8448078993006248e-07
+
+ Interest-bearing debt interest rate
+size: 6819
+unencrypted operation: 9.277599747292697e-05
+encrypted operation: 0.49753589199099224
+operation result difference: 2.0035340903269816e-16
+
+ Tax rate (A)
+size: 6819
+unencrypted operation: 7.006300438661128e-05
+encrypted operation: 0.49945101799676195
+operation result difference: 1.5839239411971258e-07
+
+ Net Value Per Share (B)
+size: 6819
+unencrypted operation: 0.00012518699804786593
+encrypted operation: 0.4950209790113149
+operation result difference: 7.824016324294684e-07
+
+ Net Value Per Share (A)
+size: 6819
+unencrypted operation: 0.00010251499770674855
+encrypted operation: 0.48097661999054253
+operation result difference: 5.161864174295215e-07
+
+ Net Value Per Share (C)
+size: 6819
+unencrypted operation: 0.0001318809954682365
+encrypted operation: 0.453506011996069
+operation result difference: -4.488713146466218e-07
+
+ Persistent EPS in the Last Four Seasons
+size: 6819
+unencrypted operation: 9.108299855142832e-05
+encrypted operation: 0.4191323630075203
+operation result difference: -1.6465407089837845e-07
+
+ Cash Flow Per Share
+size: 6819
+unencrypted operation: 7.651500345673412e-05
+encrypted operation: 0.406849869992584
+operation result difference: -2.44608497585145e-07
+
+ Revenue Per Share (Yuan ?)
+size: 6819
+unencrypted operation: 6.510400271508843e-05
+encrypted operation: 0.40720080700702965
+operation result difference: -1.347309328538222e-15
+
+ Operating Profit Per Share (Yuan ?)
+size: 6819
+unencrypted operation: 7.769699732307345e-05
+encrypted operation: 0.40823941098642536
+operation result difference: -1.1596081332610414e-07
+
+ Per Share Net profit before tax (Yuan ?)
+size: 6819
+unencrypted operation: 0.00010355599806644022
+encrypted operation: 0.40546870599791873
+operation result difference: -2.576384610313922e-07
+
+ Realized Sales Gross Profit Growth Rate
+size: 6819
+unencrypted operation: 9.503000183030963e-05
+encrypted operation: 0.4210046490043169
+operation result difference: 4.113006877241056e-06
+
+ Operating Profit Growth Rate
+size: 6819
+unencrypted operation: 0.00010152299364563078
+encrypted operation: 0.4137442170031136
+operation result difference: -1.8903433518848234e-09
+
+ After-tax Net Profit Growth Rate
+size: 6819
+unencrypted operation: 6.350099283736199e-05
+encrypted operation: 0.4348684680007864
+operation result difference: 2.019168833687237e-07
+
+ Regular Net Profit Growth Rate
+size: 6819
+unencrypted operation: 7.549299334641546e-05
+encrypted operation: 0.4250963730009971
+operation result difference: -1.5113822934995306e-07
+
+ Continuous Net Profit Growth Rate
+size: 6819
+unencrypted operation: 0.00014437400386668742
+encrypted operation: 0.4263430819992209
+operation result difference: 5.68113150952683e-07
+
+ Total Asset Growth Rate
+size: 6819
+unencrypted operation: 0.0001259889977518469
+encrypted operation: 0.48281225000391714
+operation result difference: -6.351837824678739e-16
+
+ Net Value Growth Rate
+size: 6819
+unencrypted operation: 0.00012660000356845558
+encrypted operation: 0.4181936160020996
+operation result difference: 1.290493904675745e-15
+
+ Total Asset Return Growth Rate Ratio
+size: 6819
+unencrypted operation: 9.775599755812436e-05
+encrypted operation: 0.4190066479932284
+operation result difference: -5.037283586648245e-07
+
+ Cash Reinvestment %
+size: 6819
+unencrypted operation: 0.00011308499961160123
+encrypted operation: 0.42557220700837206
+operation result difference: 5.623208050630916e-08
+
+ Current Ratio
+size: 6819
+unencrypted operation: 6.981300248298794e-05
+encrypted operation: 0.49813699499645736
+operation result difference: 0.0
+
+ Quick Ratio
+size: 6819
+unencrypted operation: 7.10039894329384e-05
+encrypted operation: 0.41467303900572006
+operation result difference: 3.207231932159528e-16
+
+ Interest Expense Ratio
+size: 6819
+unencrypted operation: 8.294700819533318e-05
+encrypted operation: 0.4122823969955789
+operation result difference: -2.01699847279281e-09
+
+ Total debt/Total net worth
+size: 6819
+unencrypted operation: 4.7470006393268704e-05
+encrypted operation: 0.41103357799875084
+operation result difference: 1.693458423034958e-16
+
+ Debt ratio %
+size: 6819
+unencrypted operation: 6.48729910608381e-05
+encrypted operation: 0.41314862300350796
+operation result difference: 3.234557293033861e-07
+
+ Net worth/Assets
+size: 6819
+unencrypted operation: 0.00011903700942639261
+encrypted operation: 0.45367443400027696
+operation result difference: -5.027477841552064e-08
+
+ Long-term fund suitability ratio (A)
+size: 6819
+unencrypted operation: 0.00013713099178858101
+encrypted operation: 0.43224833700514864
+operation result difference: -3.755003455923868e-07
+
+ Borrowing dependency
+size: 6819
+unencrypted operation: 8.38999985717237e-05
+encrypted operation: 0.4277537509915419
+operation result difference: -6.258483441353031e-08
+
+ Contingent liabilities/Net worth
+size: 6819
+unencrypted operation: 8.899900421965867e-05
+encrypted operation: 0.4217706080089556
+operation result difference: 1.6445045776904655e-06
+
+ Operating profit/Paid-in capital
+size: 6819
+unencrypted operation: 9.853798837866634e-05
+encrypted operation: 0.41535236399795394
+operation result difference: 7.770069091280338e-07
+
+ Net profit before tax/Paid-in capital
+size: 6819
+unencrypted operation: 7.967199780978262e-05
+encrypted operation: 0.44447530299657956
+operation result difference: -2.935304515219396e-07
+
+ Inventory and accounts receivable/Net value
+size: 6819
+unencrypted operation: 6.53040042379871e-05
+encrypted operation: 0.4181844139966415
+operation result difference: -6.594847327677525e-08
+
+ Total Asset Turnover
+size: 6819
+unencrypted operation: 7.139600347727537e-05
+encrypted operation: 0.42397977800283115
+operation result difference: -1.7886365842404532e-07
+
+ Accounts Receivable Turnover
+size: 6819
+unencrypted operation: 8.032200275920331e-05
+encrypted operation: 0.4842077369976323
+operation result difference: 6.194057355818046e-16
+
+ Average Collection Days
+size: 6819
+unencrypted operation: 0.0003927329962607473
+encrypted operation: 0.5168663160002325
+operation result difference: -4.381367882761666e-16
+
+ Inventory Turnover Rate (times)
+size: 6819
+unencrypted operation: 0.0004423789941938594
+encrypted operation: 0.4396642710053129
+operation result difference: -1.6222460045986229e-16
+
+ Fixed Assets Turnover Frequency
+size: 6819
+unencrypted operation: 0.0003094140120083466
+encrypted operation: 0.41615946299862117
+operation result difference: 0.0
+
+ Net Worth Turnover Rate (times)
+size: 6819
+unencrypted operation: 0.0006279429944697767
+encrypted operation: 0.42247033899184316
+operation result difference: -1.8933675346697023e-06
+
+ Revenue per person
+size: 6819
+unencrypted operation: 0.0003782490093726665
+encrypted operation: 0.41870630699850153
+operation result difference: -3.8605514041153453e-16
+
+ Operating profit per person
+size: 6819
+unencrypted operation: 0.0005128240009071305
+encrypted operation: 0.43494543099950533
+operation result difference: 1.0113493814634966e-07
+
+ Allocation rate per person
+size: 6819
+unencrypted operation: 0.0004130849993089214
+encrypted operation: 0.41605197900207713
+operation result difference: 2.2132463752506837e-16
+
+ Working Capital to Total Assets
+size: 6819
+unencrypted operation: 0.0004424859944265336
+encrypted operation: 0.41390732100990135
+operation result difference: 3.53437111669529e-08
+
+ Quick Assets/Total Assets
+size: 6819
+unencrypted operation: 0.00034258099913131446
+encrypted operation: 0.42023549300211016
+operation result difference: -8.37799472584567e-08
+
+ Current Assets/Total Assets
+size: 6819
+unencrypted operation: 0.0003551940026227385
+encrypted operation: 0.42327304399805143
+operation result difference: 3.827803526105906e-08
+
+ Cash/Total Assets
+size: 6819
+unencrypted operation: 0.00012650999997276813
+encrypted operation: 0.4283060059970012
+operation result difference: 2.0287791082227954e-07
+
+ Quick Assets/Current Liability
+size: 6819
+unencrypted operation: 0.0003832729998975992
+encrypted operation: 0.42251090200443286
+operation result difference: 4.893093005799797e-16
+
+ Cash/Current Liability
+size: 6819
+unencrypted operation: 0.00046476299758069217
+encrypted operation: 0.4209982320026029
+operation result difference: 0.0
+
+ Current Liability to Assets
+size: 6819
+unencrypted operation: 8.813799649942666e-05
+encrypted operation: 0.4202060069947038
+operation result difference: 1.261528020644692e-06
+
+ Operating Funds to Liability
+size: 6819
+unencrypted operation: 0.00030933799280319363
+encrypted operation: 0.4234678850043565
+operation result difference: 1.4632674811323758e-07
+
+ Inventory/Working Capital
+size: 6819
+unencrypted operation: 0.00044253999658394605
+encrypted operation: 0.42953118500008713
+operation result difference: -1.1578084210810927e-07
+
+ Inventory/Current Liability
+size: 6819
+unencrypted operation: 0.0004586709983414039
+encrypted operation: 0.43889243000012357
+operation result difference: -1.1245668095316297e-16
+
+ Current Liabilities/Liability
+size: 6819
+unencrypted operation: 0.00010736398689914495
+encrypted operation: 0.42559603801055346
+operation result difference: -3.991062508602163e-09
+
+ Working Capital/Equity
+size: 6819
+unencrypted operation: 0.0003576130111468956
+encrypted operation: 0.42251648599631153
+operation result difference: -4.482196867022321e-08
+
+ Current Liabilities/Equity
+size: 6819
+unencrypted operation: 0.0005226230132393539
+encrypted operation: 0.41457185200124513
+operation result difference: -4.5505812942305615e-08
+
+ Long-term Liability to Current Assets
+size: 6819
+unencrypted operation: 0.0004154250054853037
+encrypted operation: 0.4306528199958848
+operation result difference: 0.0
+
+ Retained Earnings to Total Assets
+size: 6819
+unencrypted operation: 0.00032895500771701336
+encrypted operation: 0.413834418010083
+operation result difference: -9.138506606438014e-08
+
+ Total income/Total expense
+size: 6819
+unencrypted operation: 0.000358741992386058
+encrypted operation: 0.4143727929913439
+operation result difference: -1.8210137836197307e-06
+
+ Total expense/Assets
+size: 6819
+unencrypted operation: 0.0004163609992247075
+encrypted operation: 0.4177784450002946
+operation result difference: -9.237150238123784e-07
+
+ Current Asset Turnover Rate
+size: 6819
+unencrypted operation: 0.0003156890015816316
+encrypted operation: 0.41787114599719644
+operation result difference: -5.241587597559701e-16
+
+ Quick Asset Turnover Rate
+size: 6819
+unencrypted operation: 0.00025080700288526714
+encrypted operation: 0.43413520099420566
+operation result difference: -1.5309972805494354e-16
+
+ Working capitcal Turnover Rate
+size: 6819
+unencrypted operation: 4.658900434151292e-05
+encrypted operation: 0.41903917999297846
+operation result difference: 1.1858682366368284e-07
+
+ Cash Turnover Rate
+size: 6819
+unencrypted operation: 6.65059924358502e-05
+encrypted operation: 0.41968779198941775
+operation result difference: 0.0
+
+ Cash Flow to Sales
+size: 6819
+unencrypted operation: 0.00013361399760469794
+encrypted operation: 0.4179191209987039
+operation result difference: -8.373726770849839e-08
+
+ Fixed Assets to Assets
+size: 6819
+unencrypted operation: 7.393100531771779e-05
+encrypted operation: 0.4388266460009618
+operation result difference: 0.0
+
+ Current Liability to Liability
+size: 6819
+unencrypted operation: 6.66659907437861e-05
+encrypted operation: 0.432232261999161
+operation result difference: -4.782490483365287e-08
+
+ Current Liability to Equity
+size: 6819
+unencrypted operation: 9.201500506605953e-05
+encrypted operation: 0.4206299659999786
+operation result difference: -1.0850214740620733e-07
+
+ Equity to Long-term Liability
+size: 6819
+unencrypted operation: 6.315000064205378e-05
+encrypted operation: 0.4108367840090068
+operation result difference: -3.085508778902069e-07
+
+ Cash Flow to Total Assets
+size: 6819
+unencrypted operation: 7.412100967485458e-05
+encrypted operation: 0.41594341601012275
+operation result difference: 1.4442509564387728e-07
+
+ Cash Flow to Liability
+size: 6819
+unencrypted operation: 9.822699939832091e-05
+encrypted operation: 0.4315060369990533
+operation result difference: 1.2842486481238313e-07
+
+ CFO to Assets
+size: 6819
+unencrypted operation: 0.00010208399908151478
+encrypted operation: 0.46481597899401095
+operation result difference: 7.764734293133514e-08
+
+ Cash Flow to Equity
+size: 6819
+unencrypted operation: 6.349101022351533e-05
+encrypted operation: 0.41794146300526336
+operation result difference: -8.080340421007027e-08
+
+ Current Liability to Current Assets
+size: 6819
+unencrypted operation: 0.0001904110104078427
+encrypted operation: 0.41925290500512347
+operation result difference: -1.5844830742841435e-07
+
+ Liability-Assets Flag
+size: 6819
+unencrypted operation: 0.0010992539901053533
+encrypted operation: 0.4141312980063958
+operation result difference: 1.5264017887428594e-06
+
+ Net Income to Total Assets
+size: 6819
+unencrypted operation: 6.752899207640439e-05
+encrypted operation: 0.4191806059970986
+operation result difference: 5.6213806978550225e-08
+
+ Total assets to GNP price
+size: 6819
+unencrypted operation: 7.768800423946232e-05
+encrypted operation: 0.42635104300279636
+operation result difference: 2.706485806050021e-16
+
+ No-credit Interval
+size: 6819
+unencrypted operation: 0.00010105200635734946
+encrypted operation: 0.41541595000308007
+operation result difference: 2.981353025068388e-08
+
+ Gross Profit to Sales
+size: 6819
+unencrypted operation: 6.952200783416629e-05
+encrypted operation: 0.4071862510027131
+operation result difference: 1.256314693982039e-07
+
+ Net Income to Stockholder's Equity
+size: 6819
+unencrypted operation: 6.613499135710299e-05
+encrypted operation: 0.41397862500161864
+operation result difference: 1.572684362703135e-07
+
+ Liability to Equity
+size: 6819
+unencrypted operation: 0.0001032659929478541
+encrypted operation: 0.41050641899346374
+operation result difference: 2.471953681865326e-07
+
+ Degree of Financial Leverage (DFL)
+size: 6819
+unencrypted operation: 7.831900438759476e-05
+encrypted operation: 0.4264973649987951
+operation result difference: -8.014630927325457e-07
+
+ Interest Coverage Ratio (Interest expense to EBIT)
+size: 6819
+unencrypted operation: 9.510999370831996e-05
+encrypted operation: 0.4096577110030921
+operation result difference: -1.3751920589350004e-07
+
+ Net Income Flag
+size: 6819
+unencrypted operation: 0.00010458900942467153
+encrypted operation: 0.4078911190008512
+operation result difference: -5.124152168912528e-08
+
+ Equity to Liability
+size: 6819
+unencrypted operation: 9.029200009535998e-05
+encrypted operation: 0.40764370499528013
+operation result difference: -3.9824684548987367e-07
+
+sum performance
+Bankrupt
+size: 6819
+unencrypted operation: 0.0002726880047703162
+encrypted operation: 0.3987479799980065
+operation result difference: -9.038142811525838e-06
+
+ ROA(C) before interest and depreciation before interest
+size: 6819
+unencrypted operation: 0.00045572599628940225
+encrypted operation: 0.434391022005002
+operation result difference: -1.38243081221882e-07
+
+ ROA(A) before interest and % after tax
+size: 6819
+unencrypted operation: 0.0002467379963491112
+encrypted operation: 0.3977686450089095
+operation result difference: -1.7826411899482018e-07
+
+ ROA(B) before interest and depreciation after tax
+size: 6819
+unencrypted operation: 0.0005644670018227771
+encrypted operation: 0.4055934950010851
+operation result difference: 3.232485611481052e-08
+
+ Operating Gross Margin
+size: 6819
+unencrypted operation: 0.0004310380027163774
+encrypted operation: 0.395553098001983
+operation result difference: 9.988942006654693e-07
+
+ Realized Sales Gross Margin
+size: 6819
+unencrypted operation: 0.0001988580042961985
+encrypted operation: 0.40099348600779194
+operation result difference: 2.411849390448388e-07
+
+ Operating Profit Rate
+size: 6819
+unencrypted operation: 0.00018218600598629564
+encrypted operation: 0.4319014100037748
+operation result difference: 3.604702511266723e-08
+
+ Pre-tax net Interest Rate
+size: 6819
+unencrypted operation: 0.00018367900338489562
+encrypted operation: 0.4010699549980927
+operation result difference: 2.561615672155102e-07
+
+ After-tax net Interest Rate
+size: 6819
+unencrypted operation: 0.00026254900149069726
+encrypted operation: 0.39714037798694335
+operation result difference: 2.102622238950443e-07
+
+ Non-industry income and expenditure/revenue
+size: 6819
+unencrypted operation: 0.00042382499668747187
+encrypted operation: 0.3984794120042352
+operation result difference: -1.232890227728769e-06
+
+ Continuous interest rate (after tax)
+size: 6819
+unencrypted operation: 0.00016555399633944035
+encrypted operation: 0.395893460008665
+operation result difference: -2.463342458558057e-07
+
+ Operating Expense Rate
+size: 6819
+unencrypted operation: 0.0002493229985702783
+encrypted operation: 0.4179596239991952
+operation result difference: 1.4354591835718847e-16
+
+ Research and development expense rate
+size: 6819
+unencrypted operation: 0.000470935003249906
+encrypted operation: 0.4059371919865953
+operation result difference: 1.4685190346155504e-16
+
+ Cash flow rate
+size: 6819
+unencrypted operation: 0.0005714439903385937
+encrypted operation: 0.4055113310023444
+operation result difference: 1.2313905467018347e-07
+
+ Interest-bearing debt interest rate
+size: 6819
+unencrypted operation: 0.0001729280047584325
+encrypted operation: 0.4055604089953704
+operation result difference: -1.7277848508281647e-14
+
+ Tax rate (A)
+size: 6819
+unencrypted operation: 0.00021056999685242772
+encrypted operation: 0.42478581200703047
+operation result difference: 5.200414194441895e-07
+
+ Net Value Per Share (B)
+size: 6819
+unencrypted operation: 0.00021659101184923202
+encrypted operation: 0.43711663800058886
+operation result difference: 2.294747690625399e-06
+
+ Net Value Per Share (A)
+size: 6819
+unencrypted operation: 0.0004192869964754209
+encrypted operation: 0.4091501039947616
+operation result difference: 2.0483282367233398e-06
+
+ Net Value Per Share (C)
+size: 6819
+unencrypted operation: 0.0002614760014694184
+encrypted operation: 0.42137585500313435
+operation result difference: 1.8396212790027022e-06
+
+ Persistent EPS in the Last Four Seasons
+size: 6819
+unencrypted operation: 0.0004880920023424551
+encrypted operation: 0.40525774800335057
+operation result difference: -7.296740756932212e-07
+
+ Cash Flow Per Share
+size: 6819
+unencrypted operation: 0.00019263599824626
+encrypted operation: 0.40556114600622095
+operation result difference: 9.090906597199578e-07
+
+ Revenue Per Share (Yuan ?)
+size: 6819
+unencrypted operation: 0.0001564270060043782
+encrypted operation: 0.42499754899472464
+operation result difference: -2.654709222343017e-13
+
+ Operating Profit Per Share (Yuan ?)
+size: 6819
+unencrypted operation: 0.00015742900723125786
+encrypted operation: 0.3965640629903646
+operation result difference: -2.175868968014399e-06
+
+ Per Share Net profit before tax (Yuan ?)
+size: 6819
+unencrypted operation: 0.0004707400075858459
+encrypted operation: 0.41043051100859884
+operation result difference: -1.182442670811476e-06
+
+ Realized Sales Gross Profit Growth Rate
+size: 6819
+unencrypted operation: 0.00017967200255952775
+encrypted operation: 0.4032720160030294
+operation result difference: -4.4542460728858075e-07
+
+ Operating Profit Growth Rate
+size: 6819
+unencrypted operation: 0.00017276901053264737
+encrypted operation: 0.4067773569986457
+operation result difference: -4.79419801905387e-07
+
+ After-tax Net Profit Growth Rate
+size: 6819
+unencrypted operation: 0.000521416004630737
+encrypted operation: 0.4254392479924718
+operation result difference: -1.4613299130261197e-07
+
+ Regular Net Profit Growth Rate
+size: 6819
+unencrypted operation: 0.0005602180026471615
+encrypted operation: 0.399092734005535
+operation result difference: -2.195044488861474e-08
+
+ Continuous Net Profit Growth Rate
+size: 6819
+unencrypted operation: 0.00015906199405435473
+encrypted operation: 0.41490553300536703
+operation result difference: 7.685767937954625e-07
+
+ Total Asset Growth Rate
+size: 6819
+unencrypted operation: 0.0001810140092857182
+encrypted operation: 0.4023514529981185
+operation result difference: 0.0
+
+ Net Value Growth Rate
+size: 6819
+unencrypted operation: 0.00027530299848876894
+encrypted operation: 0.3992960100003984
+operation result difference: 2.6413563920329577e-13
+
+ Total Asset Return Growth Rate Ratio
+size: 6819
+unencrypted operation: 0.00046843999007251114
+encrypted operation: 0.41636113700224087
+operation result difference: -1.0206088868376284e-06
+
+ Cash Reinvestment %
+size: 6819
+unencrypted operation: 0.0004920650098938495
+encrypted operation: 0.40259481201064773
+operation result difference: -1.3350153057097632e-07
+
+ Current Ratio
+size: 6819
+unencrypted operation: 0.00038926299021113664
+encrypted operation: 0.4029625639959704
+operation result difference: 1.8553299642476177e-14
+
+ Quick Ratio
+size: 6819
+unencrypted operation: 0.0005191770032979548
+encrypted operation: 0.4073799629986752
+operation result difference: 6.37118555077098e-14
+
+ Interest Expense Ratio
+size: 6819
+unencrypted operation: 0.0003731940087163821
+encrypted operation: 0.3993762460013386
+operation result difference: 3.1135450454256006e-08
+
+ Total debt/Total net worth
+size: 6819
+unencrypted operation: 0.0005204089975450188
+encrypted operation: 0.4252832780039171
+operation result difference: 1.4617833759121606e-13
+
+ Debt ratio %
+size: 6819
+unencrypted operation: 0.0007257990073412657
+encrypted operation: 0.3966475189954508
+operation result difference: 3.279878805962447e-06
+
+ Net worth/Assets
+size: 6819
+unencrypted operation: 0.0005761099891969934
+encrypted operation: 0.3960205220064381
+operation result difference: -1.223836459022655e-07
+
+ Long-term fund suitability ratio (A)
+size: 6819
+unencrypted operation: 0.00037745699228253216
+encrypted operation: 0.3986324539873749
+operation result difference: 1.766042510549514e-05
+
+ Borrowing dependency
+size: 6819
+unencrypted operation: 0.0005771730066044256
+encrypted operation: 0.39994334400398657
+operation result difference: 1.69592438316098e-07
+
+ Contingent liabilities/Net worth
+size: 6819
+unencrypted operation: 0.0005349770071916282
+encrypted operation: 0.4057868759991834
+operation result difference: -3.380361305207204e-05
+
+ Operating profit/Paid-in capital
+size: 6819
+unencrypted operation: 0.00029839700437150896
+encrypted operation: 0.4170205819973489
+operation result difference: 1.1674451722010886e-06
+
+ Net profit before tax/Paid-in capital
+size: 6819
+unencrypted operation: 0.0004760189913213253
+encrypted operation: 0.39310452798963524
+operation result difference: -4.6356168346025623e-07
+
+ Inventory and accounts receivable/Net value
+size: 6819
+unencrypted operation: 0.00044499599607661366
+encrypted operation: 0.39651739499822725
+operation result difference: 2.398028484243294e-07
+
+ Total Asset Turnover
+size: 6819
+unencrypted operation: 0.000520725006936118
+encrypted operation: 0.397018671996193
+operation result difference: 1.6680643651585853e-06
+
+ Accounts Receivable Turnover
+size: 6819
+unencrypted operation: 0.0002332030126126483
+encrypted operation: 0.39954185199167114
+operation result difference: -3.219264544300788e-14
+
+ Average Collection Days
+size: 6819
+unencrypted operation: 0.0001887279941001907
+encrypted operation: 0.4237630040006479
+operation result difference: 5.6134489977779665e-14
+
+ Inventory Turnover Rate (times)
+size: 6819
+unencrypted operation: 0.00016724799934308976
+encrypted operation: 0.3953446430095937
+operation result difference: -1.332758621088998e-16
+
+ Fixed Assets Turnover Frequency
+size: 6819
+unencrypted operation: 0.00017396100156474859
+encrypted operation: 0.39655410598788876
+operation result difference: 2.8398285103386504e-16
+
+ Net Worth Turnover Rate (times)
+size: 6819
+unencrypted operation: 0.00015278099454008043
+encrypted operation: 0.39853192400187254
+operation result difference: 4.711934539808238e-06
+
+ Revenue per person
+size: 6819
+unencrypted operation: 0.00016735799727030098
+encrypted operation: 0.3935988519951934
+operation result difference: 4.233207493651083e-14
+
+ Operating profit per person
+size: 6819
+unencrypted operation: 0.0001620780094526708
+encrypted operation: 0.41708682500757277
+operation result difference: 8.956518698736879e-07
+
+ Allocation rate per person
+size: 6819
+unencrypted operation: 0.0001560259988764301
+encrypted operation: 0.39493375799793284
+operation result difference: 4.910441379756307e-14
+
+ Working Capital to Total Assets
+size: 6819
+unencrypted operation: 0.000164483004482463
+encrypted operation: 0.4009552669886034
+operation result difference: 3.028149687576376e-07
+
+ Quick Assets/Total Assets
+size: 6819
+unencrypted operation: 0.00045772999874316156
+encrypted operation: 0.404455013005645
+operation result difference: 9.649171301978948e-07
+
+ Current Assets/Total Assets
+size: 6819
+unencrypted operation: 0.000369150991900824
+encrypted operation: 0.40301699499832466
+operation result difference: -3.512851289246269e-08
+
+ Cash/Total Assets
+size: 6819
+unencrypted operation: 0.00020371699065435678
+encrypted operation: 0.4155198030057363
+operation result difference: 7.484297067269569e-07
+
+ Quick Assets/Current Liability
+size: 6819
+unencrypted operation: 0.00047374599671456963
+encrypted operation: 0.4005925180099439
+operation result difference: 3.9392587961002956e-14
+
+ Cash/Current Liability
+size: 6819
+unencrypted operation: 0.0001638510002521798
+encrypted operation: 0.4094979610090377
+operation result difference: -3.251752642464349e-15
+
+ Current Liability to Assets
+size: 6819
+unencrypted operation: 0.0005838590004714206
+encrypted operation: 0.40376237699820194
+operation result difference: 1.3424316345920437e-06
+
+ Operating Funds to Liability
+size: 6819
+unencrypted operation: 0.0003495940036373213
+encrypted operation: 0.40414211199095007
+operation result difference: 2.3787034934270788e-07
+
+ Inventory/Working Capital
+size: 6819
+unencrypted operation: 0.00018855799862649292
+encrypted operation: 0.42115457699401304
+operation result difference: -1.1352860237915493e-06
+
+ Inventory/Current Liability
+size: 6819
+unencrypted operation: 0.00020939800015185028
+encrypted operation: 0.4175315199972829
+operation result difference: -1.924657518637759e-15
+
+ Current Liabilities/Liability
+size: 6819
+unencrypted operation: 0.00018028200429398566
+encrypted operation: 0.39734758000122383
+operation result difference: -4.630299955785158e-08
+
+ Working Capital/Equity
+size: 6819
+unencrypted operation: 0.00027563399635255337
+encrypted operation: 0.3994555899989791
+operation result difference: 1.0548188181244093e-07
+
+ Current Liabilities/Equity
+size: 6819
+unencrypted operation: 0.00036032999923918396
+encrypted operation: 0.3983776340028271
+operation result difference: -2.5776920093350074e-07
+
+ Long-term Liability to Current Assets
+size: 6819
+unencrypted operation: 0.00044203999277669936
+encrypted operation: 0.4155218329979107
+operation result difference: 6.610592706267225e-16
+
+ Retained Earnings to Total Assets
+size: 6819
+unencrypted operation: 0.00015630699635948986
+encrypted operation: 0.4013449509948259
+operation result difference: -1.5526666040651506e-07
+
+ Total income/Total expense
+size: 6819
+unencrypted operation: 0.00016622600378468633
+encrypted operation: 0.42425212998932693
+operation result difference: -5.02883904008392e-05
+
+ Total expense/Assets
+size: 6819
+unencrypted operation: 0.00017686600040178746
+encrypted operation: 0.4364824690128444
+operation result difference: -2.3849216178546345e-05
+
+ Current Asset Turnover Rate
+size: 6819
+unencrypted operation: 0.00018546200590208173
+encrypted operation: 0.40527448200737126
+operation result difference: 4.790276072514008e-16
+
+ Quick Asset Turnover Rate
+size: 6819
+unencrypted operation: 0.00024527599452994764
+encrypted operation: 0.4211925529962173
+operation result difference: 0.0
+
+ Working capitcal Turnover Rate
+size: 6819
+unencrypted operation: 0.0002769959974102676
+encrypted operation: 0.3994589520007139
+operation result difference: 8.667253706494044e-08
+
+ Cash Turnover Rate
+size: 6819
+unencrypted operation: 0.00019686399900820106
+encrypted operation: 0.4097696599928895
+operation result difference: 3.4760513495474974e-16
+
+ Cash Flow to Sales
+size: 6819
+unencrypted operation: 0.00017374000162817538
+encrypted operation: 0.3942851019965019
+operation result difference: 4.790410646286892e-07
+
+ Fixed Assets to Assets
+size: 6819
+unencrypted operation: 0.00016054499428719282
+encrypted operation: 0.3956017199961934
+operation result difference: -3.9086884066535026e-13
+
+ Current Liability to Liability
+size: 6819
+unencrypted operation: 0.0001780379971023649
+encrypted operation: 0.4151144799980102
+operation result difference: -8.060534656412767e-08
+
+ Current Liability to Equity
+size: 6819
+unencrypted operation: 0.0001697730040177703
+encrypted operation: 0.39696937100961804
+operation result difference: -1.0417894754324225e-07
+
+ Equity to Long-term Liability
+size: 6819
+unencrypted operation: 0.00017544299771543592
+encrypted operation: 0.40814027599117253
+operation result difference: -5.222298866186775e-06
+
+ Cash Flow to Total Assets
+size: 6819
+unencrypted operation: 0.0005288849934004247
+encrypted operation: 0.39721418199769687
+operation result difference: -2.553382782184538e-07
+
+ Cash Flow to Liability
+size: 6819
+unencrypted operation: 0.0001613160129636526
+encrypted operation: 0.3963799979974283
+operation result difference: -9.62601556055985e-07
+
+ CFO to Assets
+size: 6819
+unencrypted operation: 0.00015662801160942763
+encrypted operation: 0.4087055929994676
+operation result difference: -8.18473402938884e-07
+
+ Cash Flow to Equity
+size: 6819
+unencrypted operation: 0.0004290149954613298
+encrypted operation: 0.4035992060089484
+operation result difference: 9.909053139390586e-07
+
+ Current Liability to Current Assets
+size: 6819
+unencrypted operation: 0.00015756000357214361
+encrypted operation: 0.40656562500225846
+operation result difference: -1.1557619282832698e-05
+
+ Liability-Assets Flag
+size: 6819
+unencrypted operation: 0.00011228299990762025
+encrypted operation: 0.3968890660034958
+operation result difference: -0.0001995777252130626
+
+ Net Income to Total Assets
+size: 6819
+unencrypted operation: 0.0003973849961766973
+encrypted operation: 0.39919498800009023
+operation result difference: -3.600451081425785e-08
+
+ Total assets to GNP price
+size: 6819
+unencrypted operation: 0.00014946400187909603
+encrypted operation: 0.4043545730091864
+operation result difference: -1.9218526133695233e-15
+
+ No-credit Interval
+size: 6819
+unencrypted operation: 0.00022497799363918602
+encrypted operation: 0.4093921330058947
+operation result difference: 4.726466940497553e-07
+
+ Gross Profit to Sales
+size: 6819
+unencrypted operation: 0.0002024749992415309
+encrypted operation: 0.40795033700123895
+operation result difference: -3.231940179159923e-07
+
+ Net Income to Stockholder's Equity
+size: 6819
+unencrypted operation: 0.0001565979910083115
+encrypted operation: 0.3990812010015361
+operation result difference: 8.462486081349909e-07
+
+ Liability to Equity
+size: 6819
+unencrypted operation: 0.0005562970036407933
+encrypted operation: 0.4094590049935505
+operation result difference: -3.5174353209654566e-07
+
+ Degree of Financial Leverage (DFL)
+size: 6819
+unencrypted operation: 0.00015319099475163966
+encrypted operation: 0.40091324399691075
+operation result difference: -5.534762374176943e-06
+
+ Interest Coverage Ratio (Interest expense to EBIT)
+size: 6819
+unencrypted operation: 0.0004258700064383447
+encrypted operation: 0.41829960100585595
+operation result difference: -1.34438049664136e-08
+
+ Net Income Flag
+size: 6819
+unencrypted operation: 0.0001763050095178187
+encrypted operation: 0.41558115399675444
+operation result difference: -1.583420200522e-07
+
+ Equity to Liability
+size: 6819
+unencrypted operation: 0.00047386999358423054
+encrypted operation: 0.41172400799405295
+operation result difference: -7.88084060572896e-07
+
+avg performance
+Bankrupt
+size: 6819
+unencrypted operation: 0.0002550350036472082
+encrypted operation: 0.41428357499535196
+operation result difference: -1.0553390945309378e-05
+
+ ROA(C) before interest and depreciation before interest
+size: 6819
+unencrypted operation: 0.0001747619971865788
+encrypted operation: 0.4111927390040364
+operation result difference: -1.6535047005981347e-06
+
+ ROA(A) before interest and % after tax
+size: 6819
+unencrypted operation: 0.0003179579944116995
+encrypted operation: 0.42800787299347576
+operation result difference: -1.6935256783444698e-06
+
+ ROA(B) before interest and depreciation after tax
+size: 6819
+unencrypted operation: 0.00013961500371806324
+encrypted operation: 0.41542713200033177
+operation result difference: -1.4829370219191637e-06
+
+ Operating Gross Margin
+size: 6819
+unencrypted operation: 0.00016603499534539878
+encrypted operation: 0.4027347099909093
+operation result difference: -5.163691419988447e-07
+
+ Realized Sales Gross Margin
+size: 6819
+unencrypted operation: 0.0004666370077757165
+encrypted operation: 0.4054990809963783
+operation result difference: -1.2740772553116818e-06
+
+ Operating Profit Rate
+size: 6819
+unencrypted operation: 0.0002104500017594546
+encrypted operation: 0.4009881069941912
+operation result difference: -1.4792148582967483e-06
+
+ Pre-tax net Interest Rate
+size: 6819
+unencrypted operation: 0.00030174800485838205
+encrypted operation: 0.4206971930107102
+operation result difference: -1.2591006497333877e-06
+
+ After-tax net Interest Rate
+size: 6819
+unencrypted operation: 0.0001906219986267388
+encrypted operation: 0.40140437601075973
+operation result difference: -1.3049999236552732e-06
+
+ Non-industry income and expenditure/revenue
+size: 6819
+unencrypted operation: 0.00021086099150124937
+encrypted operation: 0.40228591099730693
+operation result difference: -2.7481501886593808e-06
+
+ Continuous interest rate (after tax)
+size: 6819
+unencrypted operation: 0.00016284899902530015
+encrypted operation: 0.41044669499387965
+operation result difference: -1.7615957015083237e-06
+
+ Operating Expense Rate
+size: 6819
+unencrypted operation: 0.0001543830003356561
+encrypted operation: 0.40452844100946095
+operation result difference: -1.5152618290290018e-06
+
+ Research and development expense rate
+size: 6819
+unencrypted operation: 0.00018570199608802795
+encrypted operation: 0.4235530690057203
+operation result difference: -1.515261828924948e-06
+
+ Cash flow rate
+size: 6819
+unencrypted operation: 0.0001535420014988631
+encrypted operation: 0.4061613679950824
+operation result difference: -1.3921229607889024e-06
+
+ Interest-bearing debt interest rate
+size: 6819
+unencrypted operation: 0.0002683500060811639
+encrypted operation: 0.4045861509948736
+operation result difference: -1.5152618461143137e-06
+
+ Tax rate (A)
+size: 6819
+unencrypted operation: 0.0003955509891966358
+encrypted operation: 0.4038911519892281
+operation result difference: -9.952211975852766e-07
+
+ Net Value Per Share (B)
+size: 6819
+unencrypted operation: 0.00045566099288407713
+encrypted operation: 0.4058293970010709
+operation result difference: 7.79482384353413e-07
+
+ Net Value Per Share (A)
+size: 6819
+unencrypted operation: 0.00013249200128484517
+encrypted operation: 0.4176301550032804
+operation result difference: 5.330633040547497e-07
+
+ Net Value Per Share (C)
+size: 6819
+unencrypted operation: 0.0002622989995870739
+encrypted operation: 0.4105867659964133
+operation result difference: 3.243566625698557e-07
+
+ Persistent EPS in the Last Four Seasons
+size: 6819
+unencrypted operation: 0.0004232729988871142
+encrypted operation: 0.3985252819984453
+operation result difference: -2.2449347989895646e-06
+
+ Cash Flow Per Share
+size: 6819
+unencrypted operation: 0.0004769060033140704
+encrypted operation: 0.40861129300901666
+operation result difference: -6.061725466577088e-07
+
+ Revenue Per Share (Yuan ?)
+size: 6819
+unencrypted operation: 0.00020887699793092906
+encrypted operation: 0.41468444500060286
+operation result difference: -1.5152620943102833e-06
+
+ Operating Profit Per Share (Yuan ?)
+size: 6819
+unencrypted operation: 0.00015210900164674968
+encrypted operation: 0.42490425900905393
+operation result difference: -3.6911274998867215e-06
+
+ Per Share Net profit before tax (Yuan ?)
+size: 6819
+unencrypted operation: 0.00015698900097049773
+encrypted operation: 0.4027957499929471
+operation result difference: -2.6977027073682825e-06
+
+ Realized Sales Gross Profit Growth Rate
+size: 6819
+unencrypted operation: 0.0004019730113213882
+encrypted operation: 0.39920006900501903
+operation result difference: -1.9606857614164616e-06
+
+ Operating Profit Growth Rate
+size: 6819
+unencrypted operation: 0.00019731500651687384
+encrypted operation: 0.40090625001175795
+operation result difference: -1.9946809042820017e-06
+
+ After-tax Net Profit Growth Rate
+size: 6819
+unencrypted operation: 0.000178439004230313
+encrypted operation: 0.39967331099614967
+operation result difference: -1.661394598708177e-06
+
+ Regular Net Profit Growth Rate
+size: 6819
+unencrypted operation: 0.0002630499948281795
+encrypted operation: 0.41420018899952993
+operation result difference: -1.5372122406273967e-06
+
+ Continuous Net Profit Growth Rate
+size: 6819
+unencrypted operation: 0.00012214199523441494
+encrypted operation: 0.3993668449984398
+operation result difference: -7.466862000825748e-07
+
+ Total Asset Growth Rate
+size: 6819
+unencrypted operation: 0.00046683299297001213
+encrypted operation: 0.40645626799960155
+operation result difference: -1.5152618285927163e-06
+
+ Net Value Growth Rate
+size: 6819
+unencrypted operation: 0.00035111699253320694
+encrypted operation: 0.4001451430085581
+operation result difference: -1.5152615643603687e-06
+
+ Total Asset Return Growth Rate Ratio
+size: 6819
+unencrypted operation: 0.00041575000796001405
+encrypted operation: 0.41029151900147554
+operation result difference: -2.5358691694624622e-06
+
+ Cash Reinvestment %
+size: 6819
+unencrypted operation: 0.0005098789988551289
+encrypted operation: 0.4162147840106627
+operation result difference: -1.6487631573586014e-06
+
+ Current Ratio
+size: 6819
+unencrypted operation: 0.0003995949955424294
+encrypted operation: 0.40769497500150464
+operation result difference: -1.5152618098609954e-06
+
+ Quick Ratio
+size: 6819
+unencrypted operation: 0.0005280979967210442
+encrypted operation: 0.4050904190080473
+operation result difference: -1.5152617650114428e-06
+
+ Interest Expense Ratio
+size: 6819
+unencrypted operation: 0.00015529499796684831
+encrypted operation: 0.40434927098976914
+operation result difference: -1.4841264255003101e-06
+
+ Total debt/Total net worth
+size: 6819
+unencrypted operation: 0.00014617799024563283
+encrypted operation: 0.40567407199705485
+operation result difference: -1.5152616829484783e-06
+
+ Debt ratio %
+size: 6819
+unencrypted operation: 0.0002526699972804636
+encrypted operation: 0.42261050301021896
+operation result difference: 1.764612007120814e-06
+
+ Net worth/Assets
+size: 6819
+unencrypted operation: 0.0003581509954528883
+encrypted operation: 0.42087939800694585
+operation result difference: -1.6376452890860264e-06
+
+ Long-term fund suitability ratio (A)
+size: 6819
+unencrypted operation: 0.0005759999912697822
+encrypted operation: 0.43430860800435767
+operation result difference: 1.6145136516133737e-05
+
+ Borrowing dependency
+size: 6819
+unencrypted operation: 0.0003918709990102798
+encrypted operation: 0.41536000299674924
+operation result difference: -1.3456696478613203e-06
+
+ Contingent liabilities/Net worth
+size: 6819
+unencrypted operation: 0.00045750499702990055
+encrypted operation: 0.4358264229958877
+operation result difference: -3.531882365969092e-05
+
+ Operating profit/Paid-in capital
+size: 6819
+unencrypted operation: 0.0004376619908725843
+encrypted operation: 0.4344130780082196
+operation result difference: -3.4781842569000554e-07
+
+ Net profit before tax/Paid-in capital
+size: 6819
+unencrypted operation: 0.00032543799898121506
+encrypted operation: 0.4221199799940223
+operation result difference: -1.9788228103059987e-06
+
+ Inventory and accounts receivable/Net value
+size: 6819
+unencrypted operation: 0.00025298100081272423
+encrypted operation: 0.42866467400745023
+operation result difference: -1.2754593438883941e-06
+
+ Total Asset Turnover
+size: 6819
+unencrypted operation: 0.0001384130009682849
+encrypted operation: 0.420162773996708
+operation result difference: 1.5280000878377935e-07
+
+ Accounts Receivable Turnover
+size: 6819
+unencrypted operation: 0.00048040799447335303
+encrypted operation: 0.4208226420014398
+operation result difference: -1.5152618609758009e-06
+
+ Average Collection Days
+size: 6819
+unencrypted operation: 0.00040181700023822486
+encrypted operation: 0.4511630720080575
+operation result difference: -1.5152617726802002e-06
+
+ Inventory Turnover Rate (times)
+size: 6819
+unencrypted operation: 0.0002206089993705973
+encrypted operation: 0.41482423098932486
+operation result difference: -1.5152618289875294e-06
+
+ Fixed Assets Turnover Frequency
+size: 6819
+unencrypted operation: 0.00020226399647071958
+encrypted operation: 0.422757772001205
+operation result difference: -1.5152618287063056e-06
+
+ Net Worth Turnover Rate (times)
+size: 6819
+unencrypted operation: 0.0001620379916857928
+encrypted operation: 0.4107193469972117
+operation result difference: 3.1966655713657585e-06
+
+ Revenue per person
+size: 6819
+unencrypted operation: 0.00020756399317178875
+encrypted operation: 0.4227306079992559
+operation result difference: -1.5152617871094044e-06
+
+ Operating profit per person
+size: 6819
+unencrypted operation: 0.0005416940111899748
+encrypted operation: 0.4296964940003818
+operation result difference: -6.196113164022954e-07
+
+ Allocation rate per person
+size: 6819
+unencrypted operation: 0.0001707740011624992
+encrypted operation: 0.44034646400541533
+operation result difference: -1.5152617797115755e-06
+
+ Working Capital to Total Assets
+size: 6819
+unencrypted operation: 0.00020926700381096452
+encrypted operation: 0.40496606899250764
+operation result difference: -1.2124473190729198e-06
+
+ Quick Assets/Total Assets
+size: 6819
+unencrypted operation: 0.00012549900566227734
+encrypted operation: 0.4121051450056257
+operation result difference: -5.503461605548287e-07
+
+ Current Assets/Total Assets
+size: 6819
+unencrypted operation: 0.00020878700888715684
+encrypted operation: 0.4125679839926306
+operation result difference: -1.5503902882531506e-06
+
+ Cash/Total Assets
+size: 6819
+unencrypted operation: 0.00019958900520578027
+encrypted operation: 0.42258087200752925
+operation result difference: -7.668332561298217e-07
+
+ Quick Assets/Current Liability
+size: 6819
+unencrypted operation: 0.0003209899878129363
+encrypted operation: 0.41955564900126774
+operation result difference: -1.515261789954928e-06
+
+ Cash/Current Liability
+size: 6819
+unencrypted operation: 0.00023495699861086905
+encrypted operation: 0.4110131360066589
+operation result difference: -1.5152618321728993e-06
+
+ Current Liability to Assets
+size: 6819
+unencrypted operation: 0.00025032598932739347
+encrypted operation: 0.457481375997304
+operation result difference: -1.7283222891713782e-07
+
+ Operating Funds to Liability
+size: 6819
+unencrypted operation: 0.00016575498739257455
+encrypted operation: 0.48515613900963217
+operation result difference: -1.2773918399561801e-06
+
+ Inventory/Working Capital
+size: 6819
+unencrypted operation: 0.0002584610047051683
+encrypted operation: 0.42151738599932287
+operation result difference: -2.6505461327161764e-06
+
+ Inventory/Current Liability
+size: 6819
+unencrypted operation: 0.00020757399033755064
+encrypted operation: 0.4060051470005419
+operation result difference: -1.5152618307110125e-06
+
+ Current Liabilities/Liability
+size: 6819
+unencrypted operation: 0.00022419600281864405
+encrypted operation: 0.4142430560023058
+operation result difference: -1.5615647579409418e-06
+
+ Working Capital/Equity
+size: 6819
+unencrypted operation: 0.0005094069929327816
+encrypted operation: 0.4071667740063276
+operation result difference: -1.4097801071915906e-06
+
+ Current Liabilities/Equity
+size: 6819
+unencrypted operation: 0.00019555099424906075
+encrypted operation: 0.4121635720075574
+operation result difference: -1.773030639278838e-06
+
+ Long-term Liability to Current Assets
+size: 6819
+unencrypted operation: 0.00024070699873846024
+encrypted operation: 0.4188326080038678
+operation result difference: -1.5152618282270278e-06
+
+ Retained Earnings to Total Assets
+size: 6819
+unencrypted operation: 0.0001546440034871921
+encrypted operation: 0.4104642710008193
+operation result difference: -1.6705282539481693e-06
+
+ Total income/Total expense
+size: 6819
+unencrypted operation: 0.000460063005448319
+encrypted operation: 0.426714222994633
+operation result difference: -5.180357602955111e-05
+
+ Total expense/Assets
+size: 6819
+unencrypted operation: 0.00022857400472275913
+encrypted operation: 0.4104926939908182
+operation result difference: -2.5364441869609756e-05
+
+ Current Asset Turnover Rate
+size: 6819
+unencrypted operation: 0.00015957299910951406
+encrypted operation: 0.4759198999963701
+operation result difference: -1.5152618284573118e-06
+
+ Quick Asset Turnover Rate
+size: 6819
+unencrypted operation: 0.00016729799972381443
+encrypted operation: 0.4169061820139177
+operation result difference: -1.5152618286032473e-06
+
+ Working capitcal Turnover Rate
+size: 6819
+unencrypted operation: 0.0006084290071157739
+encrypted operation: 0.41160664000199176
+operation result difference: -1.428589423027021e-06
+
+ Cash Turnover Rate
+size: 6819
+unencrypted operation: 0.0001877369941212237
+encrypted operation: 0.4232007039972814
+operation result difference: -1.5152618285799335e-06
+
+ Cash Flow to Sales
+size: 6819
+unencrypted operation: 0.00018970099336002022
+encrypted operation: 0.43303756300883833
+operation result difference: -1.036221490024388e-06
+
+ Fixed Assets to Assets
+size: 6819
+unencrypted operation: 0.0001828780077630654
+encrypted operation: 0.43596757999330293
+operation result difference: -1.5152622202175901e-06
+
+ Current Liability to Liability
+size: 6819
+unencrypted operation: 0.00024367299920413643
+encrypted operation: 0.41425252599583473
+operation result difference: -1.59586705353713e-06
+
+ Current Liability to Equity
+size: 6819
+unencrypted operation: 0.000515749998157844
+encrypted operation: 0.4105698009952903
+operation result difference: -1.6194406184823032e-06
+
+ Equity to Long-term Liability
+size: 6819
+unencrypted operation: 0.0003833329974440858
+encrypted operation: 0.40833258000202477
+operation result difference: -6.737552781469843e-06
+
+ Cash Flow to Total Assets
+size: 6819
+unencrypted operation: 0.00015716900816187263
+encrypted operation: 0.41572268899471965
+operation result difference: -1.7705997199542512e-06
+
+ Cash Flow to Liability
+size: 6819
+unencrypted operation: 0.0005314950103638694
+encrypted operation: 0.4173596250038827
+operation result difference: -2.477861926693289e-06
+
+ CFO to Assets
+size: 6819
+unencrypted operation: 0.00014432400348596275
+encrypted operation: 0.40587903499545064
+operation result difference: -2.33373399131997e-06
+
+ Cash Flow to Equity
+size: 6819
+unencrypted operation: 0.0004235250089550391
+encrypted operation: 0.4092438990046503
+operation result difference: -5.243580161491478e-07
+
+ Current Liability to Current Assets
+size: 6819
+unencrypted operation: 0.00018851799541153014
+encrypted operation: 0.4137952370074345
+operation result difference: -1.3072863598920895e-05
+
+ Liability-Assets Flag
+size: 6819
+unencrypted operation: 0.0001360079913865775
+encrypted operation: 0.406552032000036
+operation result difference: -0.00020109268462945972
+
+ Net Income to Total Assets
+size: 6819
+unencrypted operation: 0.00020761400810442865
+encrypted operation: 0.43854706500133034
+operation result difference: -1.5512662854024894e-06
+
+ Total assets to GNP price
+size: 6819
+unencrypted operation: 0.0001447749964427203
+encrypted operation: 0.4064561289997073
+operation result difference: -1.5152618305062675e-06
+
+ No-credit Interval
+size: 6819
+unencrypted operation: 0.0001228440087288618
+encrypted operation: 0.4182876870036125
+operation result difference: -1.0426158507600034e-06
+
+ Gross Profit to Sales
+size: 6819
+unencrypted operation: 0.0001524800027254969
+encrypted operation: 0.4064516660000663
+operation result difference: -1.8384553571237293e-06
+
+ Net Income to Stockholder's Equity
+size: 6819
+unencrypted operation: 0.00018689499120227993
+encrypted operation: 0.39971911600150634
+operation result difference: -6.69014502913979e-07
+
+ Liability to Equity
+size: 6819
+unencrypted operation: 0.00035747900255955756
+encrypted operation: 0.41375919300480746
+operation result difference: -1.867004828226023e-06
+
+ Degree of Financial Leverage (DFL)
+size: 6819
+unencrypted operation: 0.00018248699780087918
+encrypted operation: 0.40549511401331984
+operation result difference: -7.050015816785324e-06
+
+ Interest Coverage Ratio (Interest expense to EBIT)
+size: 6819
+unencrypted operation: 0.0004281089932192117
+encrypted operation: 0.4098862859973451
+operation result difference: -1.5287056134873108e-06
+
+ Net Income Flag
+size: 6819
+unencrypted operation: 0.00017711700638756156
+encrypted operation: 0.40534366700740065
+operation result difference: -1.6736036090314599e-06
+
+ Equity to Liability
+size: 6819
+unencrypted operation: 0.0004507269914029166
+encrypted operation: 0.41192533500725403
+operation result difference: -2.303344695282713e-06
+
